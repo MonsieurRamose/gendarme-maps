@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://earth.google.com/kml/2.0">
+<kml xmlns="http://earth.google.com/kml/2.1">
     <Document>
         <name>Ambalavao Map</name>
         <description>Carte d'Ambalavao</description>
@@ -9,10 +9,16 @@
                 <outline>0</outline>
             </PolyStyle>
         </Style>
+        <Style id="blue">
+            <PolyStyle>
+                <color>ffff0000</color>
+                <outline>0</outline>
+            </PolyStyle>
+        </Style>
 
         <Placemark>
             <name>Ambalavao</name>
-            <styleUrl>#red</styleUrl>
+            <styleUrl>#blue</styleUrl>
             <Polygon>
                 <outerBoundaryIs>
                     <LinearRing>
