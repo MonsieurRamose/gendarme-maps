@@ -1,3 +1,3 @@
-# Map for gendarme applicaiton
+# Map for gendarme application
 
 > WIP
