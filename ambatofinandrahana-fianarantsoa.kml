@@ -11,7 +11,7 @@
         </Style>
         <Style id="blue">
             <PolyStyle>
-                <color>ffff0000</color>
+                <color>ffff00ff</color>
                 <outline>0</outline>
             </PolyStyle>
         </Style>
