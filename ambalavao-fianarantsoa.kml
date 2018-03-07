@@ -18,7 +18,7 @@
 
         <Placemark>
             <name>Ambalavao</name>
-            <styleUrl>#blue</styleUrl>
+            <styleUrl>#red</styleUrl>
             <Polygon>
                 <outerBoundaryIs>
                     <LinearRing>
