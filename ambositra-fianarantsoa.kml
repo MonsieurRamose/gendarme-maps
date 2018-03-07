@@ -21,10 +21,16 @@
                 <outline>2</outline>
             </PolyStyle>
         </Style>
+        <Style id="pink">
+            <PolyStyle>
+                <color>#ec407a00</color>
+                <outline>2</outline>
+            </PolyStyle>
+        </Style>
 
         <Placemark>
             <name>Ambositra</name>
-            <styleUrl>#green</styleUrl>
+            <styleUrl>#pink</styleUrl>
             <Polygon>
                 <outerBoundaryIs>
                     <LinearRing>
