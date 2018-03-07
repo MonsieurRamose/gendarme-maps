@@ -15,10 +15,18 @@
                 <outline>0</outline>
             </PolyStyle>
         </Style>
-
+        <Style id="style32312">
+            <PolyStyle>
+                <color>40e87649</color>
+            </PolyStyle>
+            <LineStyle>
+                <color>7da00000</color>
+                <width>1</width>
+            </LineStyle>
+        </Style>
         <Placemark>
             <name>Ambatofinandrahana</name>
-            <styleUrl>#blue</styleUrl>
+            <styleUrl>#style32312</styleUrl>
             <Polygon>
                 <outerBoundaryIs>
                     <LinearRing>
