@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+    <Document>
+        <name>Fianarantsoa Urban Map</name>
+        <description>Carte de Fianarantsoa Urban</description>
+        <Style id="red">
+            <PolyStyle>
+                <color>#a00000ff</color>
+                <outline>0</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="blue">
+            <PolyStyle>
+                <color>ffff00ff</color>
+                <outline>0</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="style32312">
+            <PolyStyle>
+                <color>40e87649</color>
+            </PolyStyle>
+            <LineStyle>
+                <color>7da00000</color>
+                <width>1</width>
+            </LineStyle>
+        </Style>
+        <Placemark>
+            <name>Fianarantsoa Urban</name>
+            <styleUrl>#style32312</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            47.16190338134766,-21.54796409606934,0
+                            47.20638656616211,-21.5390682220459,0
+                            47.19749069213867,-21.49903297424316,0
+                            47.19749069213867,-21.45899963378906,0
+                            47.15300750732422,-21.42341232299805,0
+                            47.10852432250977,-21.41896438598633,0
+                            47.04180145263672,-21.45010185241699,0
+                            47.0684928894043,-21.4678955078125,0
+                            47.09518051147461,-21.48568916320801,0
+                            47.1174201965332,-21.5390682220459,0
+                            47.16190338134766,-21.54796409606934,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>
